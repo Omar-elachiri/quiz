@@ -19,7 +19,7 @@ body {
   }
  @media (max-width: 768px) {
   .quiz-card {
-    width: 100vw; 
+    width: 100%; 
   }
 }
   
