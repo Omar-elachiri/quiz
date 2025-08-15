@@ -33,4 +33,108 @@
         "La loi de la gravitation"
       ],
       "correct": 0
-      }]
+      },
+  
+  {
+    "question": "Qu'est-ce que le principe d'inertie ?",
+    "answers": [
+      "Un objet reste au repos ou en mouvement rectiligne uniforme sauf si une force agit sur lui",
+      "Un objet accélère toujours même sans force",
+      "Un objet ralentit naturellement avec le temps",
+      "Une force est nécessaire pour maintenir un objet immobile"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Qui a formulé le principe d'inertie ?",
+    "answers": [
+      "Newton",
+      "Galilée",
+      "Einstein",
+      "Descartes"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Selon le principe d'inertie, un objet en mouvement rectiligne uniforme va :",
+    "answers": [
+      "S'arrêter après un certain temps",
+      "Changer de direction spontanément",
+      "Continuer son mouvement à la même vitesse",
+      "Accélérer sans raison"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Un objet au repos reste au repos si :",
+    "answers": [
+      "Aucune force ne s’exerce sur lui",
+      "Une force agit constamment sur lui",
+      "Il est chauffé",
+      "Il est immergé dans l’eau"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Le principe d'inertie s'applique :",
+    "answers": [
+      "Seulement sur Terre",
+      "Dans le vide",
+      "Seulement dans l’air",
+      "Dans toutes les situations"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Une balle lancée dans l’espace continue de se déplacer en ligne droite car :",
+    "answers": [
+      "Il n’y a pas de frottement",
+      "Elle est légère",
+      "La gravité est nulle",
+      "Le vent la pousse"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Le principe d'inertie est aussi appelé :",
+    "answers": [
+      "Première loi de Newton",
+      "Deuxième loi de Newton",
+      "Troisième loi de Newton",
+      "Loi de la gravitation"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Si une force agit sur un objet, alors :",
+    "answers": [
+      "L’inertie disparaît",
+      "L’objet peut changer de vitesse ou de direction",
+      "L’objet reste immobile",
+      "L’objet retourne à son état initial"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Le principe d'inertie est vérifié expérimentalement par :",
+    "answers": [
+      "Le mouvement des planètes",
+      "La chute libre des objets",
+      "Les collisions de voitures",
+      "Un livre posé sur une table"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "La résistance d’un objet au changement de mouvement s’appelle :",
+    "answers": [
+      "Masse",
+      "Poids",
+      "Inertie",
+      "Gravité"
+    ],
+    "correct": 2
+  }
+]
+    
+]
