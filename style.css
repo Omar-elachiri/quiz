@@ -17,6 +17,11 @@ body {
     box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     width: 250px;
   }
+ @media (max-width: 768px) {
+  .quiz-card {
+    width: 100vw; /* 100% de la largeur de l'écran */
+  }
+}
   
   .quiz-card h2 {
     margin-top: 0;
@@ -27,4 +32,5 @@ body {
     margin-top: 10px;
     color: #007BFF;
     text-decoration: none;
+
   }
