@@ -9,6 +9,7 @@ body {
     flex-wrap: wrap;
     gap: 20px;
     border: 2px solid #000;
+    border-radius:5px;
   }
   
   .quiz-card {
