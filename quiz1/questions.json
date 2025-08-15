@@ -1,0 +1,36 @@
+[
+    {
+      "question": "Quel scientifique est associé au principe d'inertie ?",
+      "answers": ["Galilée", "Newton", "Einstein", "Kepler"],
+      "correct": 0
+    },
+    {
+      "question": "Que dit le principe d'inertie ?",
+      "answers": [
+        "Un objet reste en mouvement rectiligne uniforme si aucune force ne s'exerce sur lui",
+        "Un objet accélère s'il est en mouvement",
+        "Un objet s'arrête naturellement",
+        "La gravité est responsable de l'inertie"
+      ],
+      "correct": 0
+    },
+    {
+      "question": "Dans l'espace, un objet lancé continue à se déplacer car...",
+      "answers": [
+        "Il est attiré par la Terre",
+        "Il n'y a pas de frottements",
+        "Il est propulsé en permanence",
+        "Il est en chute libre"
+      ],
+      "correct": 1
+    },
+    {
+      "question": "Le principe d'inertie est une base de quelle loi de Newton ?",
+      "answers": [
+        "La première loi",
+        "La deuxième loi",
+        "La troisième loi",
+        "La loi de la gravitation"
+      ],
+      "correct": 0
+      }]
